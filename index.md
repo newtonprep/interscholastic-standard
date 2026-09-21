@@ -24,4 +24,4 @@ title: Review draft
 13. [Awards](standard/22-awards.md)
 14. [Records, publications, and finances](standard/23-records-publications-and-finances.md)
 
-The files in `standard/` contain proposed governing text. The [README](README.md) explains the project and links to supporting notes and source material. The notes and sources aid review but do not add requirements.
+The files in `standard/` contain proposed governing text. The [project README](https://github.com/newtonprep/interscholastic-standard#readme) explains the project and links to supporting notes and source material. The notes and sources aid review but do not add requirements.
