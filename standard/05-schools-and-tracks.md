@@ -4,7 +4,7 @@
 
 ## Eligibility for Signatory Status
 
-A **school**, as defined in the [opening provisions](00-purpose-and-conformance.md#definitions-and-construction), may apply for signatory status. To be eligible, it must have a responsible governing body or accountable officer, a designated contest administrator, a stable name and contact information, written roster and eligibility procedures, and authority to meet its obligations to opponents, officials, and the Standard's administrator.
+A **school**, as defined in the [opening provisions](00-purpose-and-conformance.md#definitions-and-construction), may apply for signatory status. To be eligible, it must have a responsible governing body or accountable officer, a designated contest administrator, a publicly identifiable name, a reliable contact address, a duty to report changes to either, written roster and eligibility procedures, and authority to meet its obligations to opponents, officials, and the Standard's administrator.
 
 The school's authority concerns **interscholastic representation and compliance**. Affiliation with the school does not transfer institutional responsibility for a student's general elementary or secondary education from the parent or person standing in parental authority. The student must independently satisfy [HS-BASE](10-hs-base.md).
 

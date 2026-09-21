@@ -15,7 +15,7 @@ The Standard aims to:
 1. support students' educational experience through fair interscholastic competition;
 2. establish common requirements for schools, teams, and students that other schools can evaluate;
 3. provide a basis for accountable contest administration, including obligations to officials and processes for resolving complaints; and
-4. provide a model that UIL or TAPPS could consider if either organization chooses to establish a membership category for schools serving home-educated students.
+4. provide a model that UIL or TAPPS could consider if either organization chooses to establish a membership category or path for schools serving home-educated students.
 
 ## Definitions and construction
 
