@@ -11,7 +11,7 @@
 
 ## Governance to develop
 
-- Select a steward for the protocol. Options include an independent nonprofit corporation, a public benefit corporation, or a host organization operating under a defined agreement. A steward could contract with the Texas Home School Coalition or another organization for program administration.
+- Select a steward for the protocol. Options include an independent nonprofit corporation, a public benefit corporation, or a host organization operating under a defined agreement. A steward could contract with a qualified organization for program administration.
 - Establish a process for payments to officials, complaints about treatment of officials, investigation, decisions, remedies, and appeals. This is intended in part to address TASO's need for a responsible authority.
 - Define adoption, verification, enforcement, recordkeeping, and relationships with existing interscholastic organizations.
 
