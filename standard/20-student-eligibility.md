@@ -40,7 +40,20 @@ The student may participate in high-school interscholastic contests during **fou
 
 The clock does not restart because of a change in school, home-school provider, participating program, curriculum, grade label, or time away from competition. The parent must document the first high-school year and any prior high-school attendance or participation. If the start year is disputed, the eventual eligibility authority must decide it from the recorded competition-grade history and contemporaneous educational and participation records before participation. Disability-related or other extensions require a separately adopted exception procedure and do not override another organization's rules.
 
-## 7. Application
+## 7. Exclusive Seasonal Participation — High School
+
+A student competing at the high-school level may not, during the same season, participate in the same activity both:
+
+1. interscholastically, for an adopting organization or any other elementary or secondary school or interscholastic program; and
+2. for a club, select, travel, AAU, recreational, independent, or other non-school team.
+
+A high-school student may not represent more than one interscholastic program in the same activity during the same season.
+
+For purposes of this section, participation in individual instruction, camps, clinics, showcases, combines, open workouts, or other activities that do not constitute participation on another competing team does not violate this rule.
+
+**Season.** For purposes of this section, the season is the period beginning with the first official practice of the adopting organization's team in that activity and ending with the team's final interscholastic contest of that season.
+
+## 8. Application
 
 Age, non-graduation, and the four-year window are cumulative. Satisfying one does not cure failure of another. The participating program must verify each before entering a student in a contest and must apply any stricter rule of the contest or participating organization. Protocol conformance does not imply approval by UIL, TAPPS, SPC, or an opponent.
 

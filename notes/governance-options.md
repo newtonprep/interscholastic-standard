@@ -16,14 +16,14 @@ An open copyright license addresses the first function. The other functions requ
 | Model | Practical fit | Principal issue to resolve |
 | --- | --- | --- |
 | Publish openly without an administering body | Rapid circulation and feedback; programs can adopt the text. | No central accountability, verification, or reliable recourse for officials. |
-| Independent Texas nonprofit steward with a contracted administrator | Mission-oriented governance and a distinct home for the official standard; THSC or another organization could perform administration under contract. | Board design, funding, tax status, and actual enforcement powers must be established. |
+| Independent Texas nonprofit steward with a contracted administrator | Mission-oriented governance and a distinct home for the official standard; a qualified organization could perform administration under contract. | Board design, funding, tax status, and actual enforcement powers must be established. |
 | Texas public benefit corporation steward with a contracted administrator | Can combine public-benefit mission with a for-profit operating model and outside investment. | It remains a for-profit corporation with shareholders; its incentives and control structure may affect acceptance by schools and officials. |
 | Existing organization as steward and administrator | Can start with an established organization and its operational systems. | The protocol may depend on that organization's mission, capacity, and willingness to provide impartial decisions. |
 | Interim host or fiscal sponsor, followed by an independent steward | Allows a pilot before selecting a permanent entity. | The host's authority, ownership of the text, funds, records, and transition rights need written terms. |
 
 ## Working direction for discussion
 
-The strongest candidate for a durable, widely adopted protocol appears to be an **independent nonprofit steward** with representation from home-school programs and independent voices familiar with schools and officiating. It could publish a versioned, openly reusable standard, reserve an official conformance designation, and contract program administration to THSC if THSC is willing and qualified. The steward should retain policy, appeals, and audit authority rather than delegate all oversight to the administrator. A public benefit corporation remains viable if a for-profit funding and operating model is needed.
+The strongest candidate for a durable, widely adopted protocol appears to be an **independent nonprofit steward** with representation from home-school programs and independent voices familiar with schools and officiating. It could publish a versioned, openly reusable standard, reserve an official conformance designation, and contract program administration to a qualified organization. The steward should retain policy, appeals, and audit authority rather than delegate all oversight to the administrator. A public benefit corporation remains viable if a for-profit funding and operating model is needed.
 
 This is a governance hypothesis, not a legal or tax determination. Texas treats a public benefit corporation as a for-profit corporation; Texas nonprofit formation does not itself grant tax exemption. The exact entity and any federal tax classification need tailored legal and tax review before formation.
 

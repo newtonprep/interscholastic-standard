@@ -2,7 +2,7 @@
 
 This is the Markdown source for a proposed, voluntary interscholastic Standard that organizations serving home-educated students may adopt as schools under the Standard's defined meaning. Newton Prep is a prospective adopter, and the Standard is intended for adoption by other schools as well. No organization or governing body has adopted it yet.
 
-The broader project seeks common rules that give competing UIL, TAPPS, and SPC schools confidence in schools that roster home-educated students. It also seeks an accountable governing authority that can address payments to officials and treatment of officials, including concerns raised by TASO. Administration by the Texas Home School Coalition is a possibility to explore, not a decision reflected in these files. A longer-term question is whether UIL or TAPPS might create a membership category for such schools.
+The broader project seeks common rules that give competing UIL, TAPPS, and SPC schools confidence in schools that roster home-educated students. It also seeks an accountable governing authority that can address payments to officials and treatment of officials, including concerns raised by TASO. Program administration may be assigned to a qualified organization under a defined agreement; none has been selected. A longer-term question is whether UIL or TAPPS might create a membership category for such schools.
 
 ## Drafting notes
 
@@ -13,9 +13,10 @@ The open and durable stewardship principle in the [opening provisions](standard/
 ## Source map
 
 - [`standard/00-purpose-and-conformance.md`](standard/00-purpose-and-conformance.md): purpose, scope, and the restrictive conformance rule.
+- [`standard/04-provisional-governance.md`](standard/04-provisional-governance.md): proposed interim steward authority and path to the 2027–28 Standard.
 - [`standard/05-schools-and-tracks.md`](standard/05-schools-and-tracks.md): proposed signatory-school commitments and three conformance tracks.
 - [`standard/06-organization-and-administration.md`](standard/06-organization-and-administration.md): proposed division of responsibility among signatory schools, the steward, and an administrator.
-- [`standard/07-classification-of-violations-and-protests.md`](standard/07-classification-of-violations-and-protests.md): reserved section for violation classes and protests.
+- [`standard/07-classification-of-violations-and-protests.md`](standard/07-classification-of-violations-and-protests.md): proposed reporting, investigation, contest remedies, and activity-specific sanctions.
 - [`standard/08-committee-meetings-and-appeals.md`](standard/08-committee-meetings-and-appeals.md): reserved headings for hearings and appeals.
 - [`standard/09-standard-and-amendments.md`](standard/09-standard-and-amendments.md): reserved headings for standard-setting, interpretations, and amendments.
 - [`standard/09a-classification-and-grouping.md`](standard/09a-classification-and-grouping.md): reserved subject for modules and any future competitive grouping.

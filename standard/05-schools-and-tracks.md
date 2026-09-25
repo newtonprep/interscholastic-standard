@@ -18,7 +18,7 @@ The adoption agreement must identify the school and authorized signer, the versi
 
 ## Signatory Dues
 
-The Standard's administrator may establish signatory dues under a published schedule incorporated into the adoption agreement. The amount, due dates, permitted adjustments, and consequences of nonpayment remain to be drafted. No dues are imposed by this discussion draft.
+The steward's governing body may establish signatory dues under a published schedule incorporated into the adoption agreement. A program administrator may collect dues under written delegation. The amount, due dates, permitted adjustments, and consequences of nonpayment remain to be drafted. No dues are imposed by this discussion draft.
 
 ## Standing
 
