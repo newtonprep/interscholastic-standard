@@ -1,3 +1,5 @@
+> **Publication moved to Robeson.** [Read the current working draft at robeson.org](https://robeson.org/standard/notes/student-eligibility-questions/). This page is retained as an archive; future revisions are maintained in the [Robeson repository](https://github.com/robeson-org/robeson).
+
 # Age, graduation, and four-year rule: choices for v0.2
 
 **Status:** Non-normative drafting questions.

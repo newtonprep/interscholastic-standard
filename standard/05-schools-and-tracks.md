@@ -1,3 +1,5 @@
+> **Publication moved to Robeson.** [Read the current working draft at robeson.org](https://robeson.org/standard/05-schools-and-tracks/). This page is retained as an archive; future revisions are maintained in the [Robeson repository](https://github.com/robeson-org/robeson).
+
 # Signatories to the Standard and conformance tracks v0.3 — discussion draft
 
 **Status:** Proposed normative framework for discussion. No protocol steward, membership body, or external organization has adopted these provisions.

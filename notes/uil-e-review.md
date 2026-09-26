@@ -1,3 +1,5 @@
+> **Publication moved to Robeson.** [Read the current working draft at robeson.org](https://robeson.org/standard/notes/uil-e-review/). This page is retained as an archive; future revisions are maintained in the [Robeson repository](https://github.com/robeson-org/robeson).
+
 # UIL Subchapter E: organization and administration review
 
 **Status:** Non-normative drafting map, reviewed against the [2026–27 UIL Subchapter E overview](https://www.uiltexas.org/policy/constitution/general/organization) and its [committee sections](https://www.uiltexas.org/policy/constitution/general).

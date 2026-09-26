@@ -1,3 +1,5 @@
+> **Publication moved to Robeson.** [Read the current working draft at robeson.org](https://robeson.org/standard/notes/governance-options/). This page is retained as an archive; future revisions are maintained in the [Robeson repository](https://github.com/robeson-org/robeson).
+
 # Governance and publication options
 
 **Status:** Non-normative decision note. No entity has been formed, administrator appointed, or license granted.

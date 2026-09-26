@@ -1,3 +1,5 @@
+> **Publication moved to Robeson.** [Read the current working draft at robeson.org](https://robeson.org/standard/notes/uil-a-c-review/). This page is retained as an archive; future revisions are maintained in the [Robeson repository](https://github.com/robeson-org/robeson).
+
 # UIL Subchapters A–C: review for the Standard
 
 **Status:** Non-normative drafting notes, reviewed against the [2026–27 UIL Constitution and Contest Rules, Subchapters A–C](https://www.uiltexas.org/policy/constitution/general/overview). This is a functional comparison, not an adoption of UIL text or numbering.

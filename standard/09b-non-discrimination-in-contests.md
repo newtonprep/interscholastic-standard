@@ -1,3 +1,5 @@
+> **Publication moved to Robeson.** [Read the current working draft at robeson.org](https://robeson.org/standard/09b-non-discrimination-in-contests/). This page is retained as an archive; future revisions are maintained in the [Robeson repository](https://github.com/robeson-org/robeson).
+
 # Non-Discrimination in Contests
 
 **Status:** Discussion draft. The policy and any activity-specific applications are reserved for expansion.

@@ -1,3 +1,5 @@
+> **Publication moved to Robeson.** [Read the current working draft at robeson.org](https://robeson.org/standard/notes/constitution-crosswalk/). This page is retained as an archive; future revisions are maintained in the [Robeson repository](https://github.com/robeson-org/robeson).
+
 # Top-down constitution crosswalk
 
 **Status:** Non-normative drafting map. This is a sequence for our protocol, not a claim that UIL or TAPPS has adopted it.

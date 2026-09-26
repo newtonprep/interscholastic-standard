@@ -1,3 +1,5 @@
+> **Publication moved to Robeson.** [Read the current working draft at robeson.org](https://robeson.org/standard/00-purpose-and-conformance/). This page is retained as an archive; future revisions are maintained in the [Robeson repository](https://github.com/robeson-org/robeson).
+
 # Interscholastic Competition Standard for Home-Education Programs, Teams, and Students
 
 **Status:** Working normative opening provisions. These provisions have not been adopted by a governing body.
