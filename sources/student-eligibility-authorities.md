@@ -1,3 +1,5 @@
+> **Publication moved to Robeson.** [Read the current working draft at robeson.org](https://robeson.org/standard/sources/student-eligibility-authorities/). This page is retained as an archive; future revisions are maintained in the [Robeson repository](https://github.com/robeson-org/robeson).
+
 # Student eligibility: current external rules
 
 **Status:** Non-normative source notes, checked September 19, 2026. Recheck the applicable year, division, sport, and host organization's rules before use.

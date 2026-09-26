@@ -1,3 +1,5 @@
+> **Publication moved to Robeson.** [Read the current working draft at robeson.org](https://robeson.org/standard/09a-classification-and-grouping/). This page is retained as an archive; future revisions are maintained in the [Robeson repository](https://github.com/robeson-org/robeson).
+
 # Classification, Modules, and Grouping
 
 **Status:** Reserved discussion draft. No conference, district, classification, alignment, or assignment system has been adopted.

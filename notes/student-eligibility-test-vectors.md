@@ -1,3 +1,5 @@
+> **Publication moved to Robeson.** [Read the current working draft at robeson.org](https://robeson.org/standard/notes/student-eligibility-test-vectors/). This page is retained as an archive; future revisions are maintained in the [Robeson repository](https://github.com/robeson-org/robeson).
+
 # Student-eligibility test vectors
 
 **Status:** Non-normative examples for the age, graduation, and four-year discussion draft. Results assume HS-BASE and all other applicable rules are satisfied.

@@ -1,3 +1,5 @@
+> **Publication moved to Robeson.** [Read the current working draft at robeson.org](https://robeson.org/standard/07-classification-of-violations-and-protests/). This page is retained as an archive; future revisions are maintained in the [Robeson repository](https://github.com/robeson-org/robeson).
+
 # Violations, Reports, Protests, and Remedies v0.2 — discussion draft
 
 **Status:** Proposed normative framework for discussion. No steward, program administrator, or decision maker has been appointed, and no school has adopted these procedures. The identity and authority of the decision maker, filing deadlines, and appeal procedure require further drafting before this section can operate.

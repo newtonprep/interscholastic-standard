@@ -3,6 +3,8 @@ layout: default
 title: Review draft
 ---
 
+> **Publication moved to Robeson.** [Read the current working draft at robeson.org](https://robeson.org/standard/overview/). This page is retained as an archive; future revisions are maintained in the [Robeson repository](https://github.com/robeson-org/robeson).
+
 # Interscholastic Competition Standard for Home-Education Programs, Teams, and Students
 
 **Working draft for review.** No governing body has adopted this Standard. Reserved sections identify subjects still to be drafted. This site shows the current working text; a published version will be separately identified and fixed.

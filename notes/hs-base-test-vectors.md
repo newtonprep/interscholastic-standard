@@ -1,3 +1,5 @@
+> **Publication moved to Robeson.** [Read the current working draft at robeson.org](https://robeson.org/standard/notes/hs-base-test-vectors/). This page is retained as an archive; future revisions are maintained in the [Robeson repository](https://github.com/robeson-org/robeson).
+
 # HS-BASE test vectors
 
 **Status:** Non-normative working notes. These are relationship patterns, not current determinations about every program offered by a named provider. Confirm the actual enrollment terms, allocation of authority, and any bright-line exclusion when applying HS-BASE.

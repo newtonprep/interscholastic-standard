@@ -1,3 +1,5 @@
+> **Publication moved to Robeson.** [Read the current working draft at robeson.org](https://robeson.org/standard/sources/texas-authorities/). This page is retained as an archive; future revisions are maintained in the [Robeson repository](https://github.com/robeson-org/robeson).
+
 # Texas authorities and citation notes
 
 **Status:** Non-normative research notes. Verify the current law and program terms when applying or revising the standard.

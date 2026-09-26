@@ -1,3 +1,5 @@
+> **Publication moved to Robeson.** [Read the current working draft at robeson.org](https://robeson.org/standard/04-provisional-governance/). This page is retained as an archive; future revisions are maintained in the [Robeson repository](https://github.com/robeson-org/robeson).
+
 # Provisional governance for the 2026–27 school year v0.1 — discussion draft
 
 **Status:** Proposed normative text for discussion. Newton Prep is authoring the draft. No nonprofit steward has been formed, no board has adopted this text, and no school has attained signatory status under it.

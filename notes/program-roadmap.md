@@ -1,3 +1,5 @@
+> **Publication moved to Robeson.** [Read the current working draft at robeson.org](https://robeson.org/standard/notes/program-roadmap/). This page is retained as an archive; future revisions are maintained in the [Robeson repository](https://github.com/robeson-org/robeson).
+
 # Program roadmap and governance questions
 
 **Status:** Non-normative planning notes. These objectives do not claim that a governing authority or partner organization has agreed to administer the standard.

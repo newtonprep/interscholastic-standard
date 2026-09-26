@@ -1,3 +1,5 @@
+> **Publication moved to Robeson.** [Read the current working draft at robeson.org](https://robeson.org/standard/project/). This page is retained as an archive; future revisions are maintained in the [Robeson repository](https://github.com/robeson-org/robeson).
+
 # Interscholastic Competition Standard for Home-Education Programs, Teams, and Students
 
 This is the Markdown source for a proposed, voluntary interscholastic Standard that organizations serving home-educated students may adopt as schools under the Standard's defined meaning. Newton Prep is a prospective adopter, and the Standard is intended for adoption by other schools as well. No organization or governing body has adopted it yet.

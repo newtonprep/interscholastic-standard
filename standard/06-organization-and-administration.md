@@ -1,3 +1,5 @@
+> **Publication moved to Robeson.** [Read the current working draft at robeson.org](https://robeson.org/standard/06-organization-and-administration/). This page is retained as an archive; future revisions are maintained in the [Robeson repository](https://github.com/robeson-org/robeson).
+
 # Organization and Administration v0.1 — discussion draft
 
 **Status:** Proposed normative framework for discussion. No steward, administrator, or adjudicative body has been appointed. This section does not itself create a legal entity or grant authority to any organization.

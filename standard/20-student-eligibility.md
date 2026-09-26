@@ -1,3 +1,5 @@
+> **Publication moved to Robeson.** [Read the current working draft at robeson.org](https://robeson.org/standard/20-student-eligibility/). This page is retained as an archive; future revisions are maintained in the [Robeson repository](https://github.com/robeson-org/robeson).
+
 # Eligibility v0.3 — discussion draft
 
 **Status:** Proposed normative text for discussion; no provision in this file has been adopted. This module addresses high-school interscholastic contests. Junior-high and other divisions need separate treatment.

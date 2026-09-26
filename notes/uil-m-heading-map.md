@@ -1,3 +1,5 @@
+> **Publication moved to Robeson.** [Read the current working draft at robeson.org](https://robeson.org/standard/notes/uil-m-heading-map/). This page is retained as an archive; future revisions are maintained in the [Robeson repository](https://github.com/robeson-org/robeson).
+
 # UIL Subchapter M: eligibility heading map
 
 **Status:** Non-normative drafting map. The [UIL 2026–27 eligibility provisions](https://www.uiltexas.org/policy/constitution/general/eligibility) provide a subject sequence; they do not automatically govern signatory schools.
